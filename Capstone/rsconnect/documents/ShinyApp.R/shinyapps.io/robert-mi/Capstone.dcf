@@ -1,0 +1,12 @@
+name: Capstone
+title: Capstone
+username: robert-mi
+account: robert-mi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11994703
+bundleId: 8611106
+url: https://robert-mi.shinyapps.io/Capstone/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
